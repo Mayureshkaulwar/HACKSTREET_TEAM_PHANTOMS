@@ -5,8 +5,7 @@ To run the project you can directly the clone the project in your local path dir
 This Project was created as a part of EDI Project
 
 Created by :
+
 Kartik Katkar
-Ajay Gonepuri
-Pranav Sonkamble
-Tejas Mali
-Pratham Adav
+Mayuresh Kaulwar
+Yash Kawtikwar
