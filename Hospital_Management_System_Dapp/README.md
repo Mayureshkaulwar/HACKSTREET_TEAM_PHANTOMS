@@ -12,5 +12,5 @@ Yash Kawtikwar
 ## Screenshots of working
 
 <p align="center">
-  <img src="./Screenshot/app.gif" alt="Image"/>
+  <img src="./images and videos/Project.gif" alt="Image"/>
 </p>
