@@ -6,12 +6,6 @@
 
 It is an Ethereum blockchain based database management system for hospital record management.
 
-Created by :
-
-Kartik Katkar
-Mayuresh Kaulwar
-Yash Kawtikwar
-
 # Screenshots of working
 &nbsp; 
 
